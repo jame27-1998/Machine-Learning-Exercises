@@ -45,4 +45,16 @@ Model :  Logistic regression <br>
 Training Accuracy:  0.9865985576923076<br>
 Testing Accuracy : 0.9790865384615385
 <hr>
+<h3><b> 4.Loan Status Prediction </b></h3>
+<br>
+
+Mapping this use case to Machine Learning Problem : Binary class classification problem <br>
+Feature dimension : 11 <br>
+metric used: Accuracy <br>
+Model :support vector machines<br>
+
+<br>
+Training Accuracy:  0.7986111111111112<br>
+Testing Accuracy :  0.8333333333333334
+<hr>
 
