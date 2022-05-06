@@ -70,3 +70,16 @@ Model : Random Forest<br>
 Testing Accuracy :  0.925
 <hr>
 
+<h3><b> 6. Car Price Prediction</b></h3>
+<br>
+This dataset contains information about used cars.This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.<br>
+<br>
+Mapping this use case to Machine Learning Problem : Regression problem <br>
+Feature dimension : 7 <br>
+metric used: R squared Error <br>
+Model : Linear regression<br>
+
+<br>
+R squared Error:  0.8709167941173195
+<hr>
+
