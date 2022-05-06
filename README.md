@@ -16,7 +16,7 @@ Testing Accuracy : 0.7727272727272727
 <br>
 Here, we are building a House price prediction system using Machine Learning with Python. Boston house price prediction. This is an important Machine Learning project & use case.
 <br>
-<br>
+
 Mapping this use case to Machine Learning Problem : Regression problem <br>
 No of Features: 13<br>
 metric used: R squared error , Mean Absolute Error <br>
@@ -32,4 +32,17 @@ Mean Absolute Error :  1.145314053261634
 R squared error : 0.9115937697657654</br>
 Mean Absolute Error :  1.9922956859364223
 <br>
+<hr>
+<h3><b>3. Fake_News_Prediction </b></h3>
+<br>
+Develop a machine learning program to identify when an article might be fake or reliable news articles.<br>
+<br>
+Mapping this use case to Machine Learning Problem : Binary class classification problem <br>
+text featurization: tf-idf <br>
+metric used: Accuracy <br>
+Model :  Logistic regression <br>
+<br>
+Training Accuracy:  0.9865985576923076<br>
+Testing Accuracy : 0.9790865384615385
+<hr>
 
