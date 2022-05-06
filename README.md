@@ -83,3 +83,15 @@ Model : Linear regression<br>
 R squared Error:  0.8709167941173195
 <hr>
 
+<h3><b>7. Gold Price Prediction </b></h3>
+<br>
+
+Mapping this use case to Machine Learning Problem : Regression problem <br>
+Feature dimension : 4 <br>
+metric used: R squared error : <br>
+Model : Random Forest regressor<br>
+<br>
+R squared Error: 0.9887338861925125
+<hr>
+
+
