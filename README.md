@@ -58,3 +58,15 @@ Training Accuracy:  0.7986111111111112<br>
 Testing Accuracy :  0.8333333333333334
 <hr>
 
+<h3><b> 5. Wine Quality Prediction </b></h3>
+<br>
+
+Mapping this use case to Machine Learning Problem : Binary class classification problem <br>
+Feature dimension : 11 <br>
+metric used: Accuracy <br>
+Model : Random Forest<br>
+
+<br>
+Testing Accuracy :  0.925
+<hr>
+
